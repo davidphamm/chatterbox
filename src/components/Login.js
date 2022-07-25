@@ -11,7 +11,7 @@ const Login = () => {
                 <h2>Welcome to ChatterBox</h2>
                 <p className='instruction'>Please sign-in with your google account to get started.</p>
                 <div
-                    className='login-button google'
+                    className='login-button'
                     onClick={() => auth.signInWithRedirect(new firebase.auth.GoogleAuthProvider())}
                 >
                     <GoogleOutlined /> Sign In with Google
