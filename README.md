@@ -1,5 +1,7 @@
 # ChatterBox
 
+
+<a href="https://www.imdavidpham.com/chatterbox/">Live Demo</a><br><br>
 # Screenshot
 Desktop view<br>
 <img src="https://github.com/davidphamm/chatterbox/blob/main/screenshot1.png?raw=true"/>
