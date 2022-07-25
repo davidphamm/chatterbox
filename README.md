@@ -2,6 +2,9 @@
 
 <a href="https://www.imdavidpham.com/chatterbox/">Live Demo</a><br><br>
 
+# About
+ChatterBox is an chat application made with chat engine, firebase, and google email authentication.
+
 # Instruction 
 Available Scripts
 In the project directory, you can run:
