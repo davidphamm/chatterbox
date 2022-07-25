@@ -2,7 +2,7 @@
   "name": "ChatterBox",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://davidphamm.github.io/chatbox",
+  "homepage": "https://davidphamm.github.io/chatterbox/",
   "dependencies": {
     "-": "^0.0.1",
     "@ant-design/icons": "^4.6.2",
