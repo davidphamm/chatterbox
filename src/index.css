@@ -87,17 +87,13 @@
 }
 
 .login-button {
+  background-color: #4285f4!important;
+  opacity: 80%;
   cursor: pointer;
   color: white;
   padding: 12px;
   border-radius: 8px;
   display: inline-block;
-}
-
-.google {
-  background-color: #4285f4;
-  opacity: 80%;
-  color: white;
 }
 
 #loading-container {
