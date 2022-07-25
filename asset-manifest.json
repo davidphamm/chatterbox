@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chatterbox/static/css/main.bc8b6f86.chunk.css",
+    "main.css": "/chatterbox/static/css/main.030eabba.chunk.css",
     "main.js": "/chatterbox/static/js/main.9655633e.chunk.js",
     "main.js.map": "/chatterbox/static/js/main.9655633e.chunk.js.map",
     "runtime-main.js": "/chatterbox/static/js/runtime-main.636d58e8.js",
@@ -8,15 +8,15 @@
     "static/js/2.40e78553.chunk.js": "/chatterbox/static/js/2.40e78553.chunk.js",
     "static/js/2.40e78553.chunk.js.map": "/chatterbox/static/js/2.40e78553.chunk.js.map",
     "index.html": "/chatterbox/index.html",
-    "precache-manifest.7bcc17635b1d1a4b0d0729dd4bbd177d.js": "/chatterbox/precache-manifest.7bcc17635b1d1a4b0d0729dd4bbd177d.js",
+    "precache-manifest.ae4e9a8d8b2361f910416cc9b73a3dca.js": "/chatterbox/precache-manifest.ae4e9a8d8b2361f910416cc9b73a3dca.js",
     "service-worker.js": "/chatterbox/service-worker.js",
-    "static/css/main.bc8b6f86.chunk.css.map": "/chatterbox/static/css/main.bc8b6f86.chunk.css.map",
+    "static/css/main.030eabba.chunk.css.map": "/chatterbox/static/css/main.030eabba.chunk.css.map",
     "static/js/2.40e78553.chunk.js.LICENSE.txt": "/chatterbox/static/js/2.40e78553.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.636d58e8.js",
     "static/js/2.40e78553.chunk.js",
-    "static/css/main.bc8b6f86.chunk.css",
+    "static/css/main.030eabba.chunk.css",
     "static/js/main.9655633e.chunk.js"
   ]
 }
